@@ -1,51 +1,36 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# ChatGPT: O que é Natty or fake natty e os riscos de "Tomar o suco"
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Como não sou muito ligado na área do fisiculturismo, fiz uma pergunta leiga de uma frase que ficou viral na internet para ele me explicar oque quer dizer com essa frase
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ChatGPT
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Fiz a seguinte pergunta ao ChatGPT: Me explique como especialista na área, oque é natty or fake natty e qual os riscos dos anabolizantes
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Natty e Fake Natty:
+
+Natty: O termo "natty" é uma abreviação de "natural". Quando alguém é referido como "natty", significa que essa pessoa alcançou seu físico sem o uso de substâncias anabólicas ou esteroides. Eles confiam principalmente na dieta, treinamento e descanso para construir e manter sua aparência física.
+
+Fake Natty: Por outro lado, "fake natty" se refere a alguém que aparenta ter um físico natural, mas na verdade utiliza anabolizantes para alcançar ou manter essa aparência. Em muitos casos, essas pessoas podem afirmar que obtiveram seus resultados apenas com dieta e exercícios, quando na verdade estão utilizando drogas para melhorar o desempenho.
+
+Riscos dos Anabolizantes:
+
+Riscos Cardíacos: O uso de anabolizantes pode aumentar o risco de doenças cardíacas, incluindo hipertensão, aumento do colesterol ruim (LDL) e diminuição do colesterol bom (HDL), além de aumentar a probabilidade de coágulos sanguíneos e acidentes vasculares cerebrais.
+
+Danos Hepáticos: Muitos anabolizantes são tóxicos para o fígado e podem levar a problemas como hepatite, icterícia, tumores hepáticos e até falência hepática.
+
+Alterações Hormonais: O uso de esteroides pode interromper o equilíbrio hormonal natural do corpo, levando a uma série de efeitos colaterais, incluindo supressão da produção de testosterona endógena. Isso pode resultar em atrofia testicular, infertilidade, disfunção erétil, diminuição da libido e até mesmo ginecomastia (crescimento anormal das glândulas mamárias masculinas).
+
+Efeitos Psicológicos: O uso de anabolizantes pode causar alterações de humor, agressividade, irritabilidade, insônia, depressão e até psicose em alguns casos.
+
+Riscos para Mulheres: As mulheres que usam anabolizantes podem experimentar virilização, desenvolvimento de características masculinas, como aumento de pelos corporais, engrossamento da voz, diminuição dos seios e irregularidades menstruais.
+
+Riscos para Adolescentes: O uso de anabolizantes por adolescentes pode interromper o desenvolvimento normal, causando estatura reduzida, fechamento prematuro das placas de crescimento ósseo e outros problemas de desenvolvimento físico e sexual.
+
+É importante ressaltar que os anabolizantes devem ser utilizados apenas sob supervisão médica e prescrição adequada, para tratar condições médicas específicas. O uso recreativo ou não supervisionado dessas substâncias pode resultar em sérios danos à saúde física e mental.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+Em geral, as informações que a ferramenta traz abranje o conhecimento porém tenho que ressaltar a didatica abordada pelo ChatGPT.
